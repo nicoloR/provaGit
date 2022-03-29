@@ -1,7 +1,7 @@
 # provaGit
 Repository di prova
 
-##Sottotitolo
+## Sottotitolo
 Contenuto cartelle:
 - a
 - -b 
